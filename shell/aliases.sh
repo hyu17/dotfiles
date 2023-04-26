@@ -5,6 +5,7 @@ alias gc="git commit"
 alias gl="git log --all --graph --decorate"
 alias gll="git log --all --graph --decorate --oneline"
 alias gf="git diff"
+alias gcs="git commit -s"
 
 # common commands
 alias mv="mv -i"
